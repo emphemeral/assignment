@@ -1,4 +1,4 @@
-Here is the complete solution for Assignment 3.1. You will need to create two separate HTML files in the same folder on your computer.
+
 
 File 1: index.html (The Home Page)
 Copy this code and save it as index.html. It includes the website name, an introduction, the navigation bar, and the external link with the required security attributes.
