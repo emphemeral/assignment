@@ -1,4 +1,3 @@
-Because this assignment requires your personal GitHub account, I cannot create the repository or generate the final link for you. Here is the exact step-by-step workflow you need to follow to complete the assignment and get your submission link.
 
 Part 1: Create the Remote Repository
 Go to GitHub and log in (or create an account).
