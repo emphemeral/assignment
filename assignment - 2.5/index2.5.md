@@ -1,6 +1,4 @@
-Here is the complete solution for your assignment. It includes the required HTML code structured correctly, followed by step-by-step instructions on how to save it and commit it to your GitHub repository.
-
-Part 1: The HTML Code
+Part 1: The HTML Code
 You will need to replace the placeholder information (like "Your Name", your actual skills, and your links) with your real details.
 
 HTML
