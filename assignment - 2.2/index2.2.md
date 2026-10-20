@@ -1,4 +1,3 @@
-Here is the complete HTML code you need for your assignment, followed by instructions on how to capture your screenshot for submission.
 
 Part 1: The HTML Code
 Copy the code below and paste it into a new file named index.html (or resume.html) in your project folder. It includes all the required tags from your assignment prompt, from <h1> to <h6>, formatting tags, and structural <div> and <span> elements.
