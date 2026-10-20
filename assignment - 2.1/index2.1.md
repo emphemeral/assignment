@@ -1,4 +1,3 @@
-Here is the complete HTML code you need for your index.html file, followed by instructions on how to capture your screenshot.
 
 Part 1: The index.html Code
 Copy the code below and paste it into your index.html file inside Visual Studio Code. It includes the required structure, title, headings, proper indentation, and HTML comments.
