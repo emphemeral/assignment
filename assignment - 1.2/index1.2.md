@@ -1,4 +1,3 @@
-Because this assignment requires installing software and setting up a local environment on your personal machine, I cannot perform the actions or take the screenshots for you. Here is the exact step-by-step walkthrough to complete the setup and capture your required submission files.
 
 1. Install the Core Software
 Visual Studio Code: Go to code.visualstudio.com and download the installer for your operating system. Run the installer using all the default settings.
