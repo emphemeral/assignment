@@ -1,6 +1,3 @@
-Just like the previous assignment, I cannot execute these commands on your computer or take the screenshot for you, but I can provide the exact "record of terminal commands" you need to submit, along with instructions on how to capture your screenshot.
-
-Because terminal commands can contain code, I have formatted this using standard code blocks rather than interactive steps.
 
 Part 1: Record of Terminal Commands for Submission
 You can copy and paste the text below into your assignment submission. These commands represent the standard Unix/Bash workflow (used in Mac, Linux, and Git Bash on Windows) which is the industry standard for web development.
