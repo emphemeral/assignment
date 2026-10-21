@@ -1,7 +1,6 @@
-Here is the complete HTML solution for Assignment 3.3. This code meets all the requirements for ordered, unordered, nested, and definition lists, neatly organized into semantic sections.
 
 The HTML Code
-Copy the code below and save it on your computer as college-info.html.
+
 
 HTML
 <!DOCTYPE html>
