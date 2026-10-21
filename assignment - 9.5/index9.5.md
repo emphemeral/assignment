@@ -1,6 +1,3 @@
-Here is the complete and final solution for Assignment 9.5.
-
-Since you are making this portfolio-ready, I have included a small bonus in this final version: a few lines of JavaScript to make the mobile "hamburger" menu actually work when clicked!
 
 1. HTML Structure (index.html)
 HTML
