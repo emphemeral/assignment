@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 9.2. This assignment focuses on the two most important elements of readability: ensuring your text scales beautifully across all devices and guaranteeing your images never break out of their containers.
 
 This solution demonstrates the modern CSS clamp() function for truly fluid typography.
 
