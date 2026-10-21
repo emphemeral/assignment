@@ -1,4 +1,4 @@
-Here is the complete code to demonstrate the four CSS overflow properties and how to fix a common layout break caused by overflowing content.
+
 
 index.html
 This file creates four fixed-size boxes loaded with excess text to test the overflow states, plus a dedicated section showing a broken layout and its fixed counterpart.
