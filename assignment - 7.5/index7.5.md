@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 7.5. This mini-project acts as a culmination of your Flexbox skills, combining a Navbar, Hero section, Feature cards, CTA, and Footer into one cohesive, responsive landing page.
 
 1. HTML Structure (index.html)
 HTML
