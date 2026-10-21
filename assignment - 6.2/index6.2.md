@@ -1,4 +1,3 @@
-Here is the complete code for your assignment, providing the HTML structure and the CSS to style the three distinct cards while demonstrating the requested display properties.
 
 index.html
 This file contains the structure for the three pricing cards and includes specific elements (like <span> and <a>) to demonstrate different display types.
