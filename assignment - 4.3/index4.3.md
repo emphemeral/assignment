@@ -1,5 +1,5 @@
 
-(Note: The border, cellspacing, and cellpadding attributes are used here so you can visually see the table grid without needing to write any CSS.)
+
 
 HTML
 <!DOCTYPE html>
