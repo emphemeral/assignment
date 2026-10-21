@@ -1,7 +1,4 @@
-The HTML Code
-Copy this updated structure into your HTML files. You will need to customize the <title> and content attributes to match the specific project you are updating.
 
-HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
