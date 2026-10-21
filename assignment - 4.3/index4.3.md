@@ -1,5 +1,3 @@
-The HTML Code
-Copy the code below and save it as marksheet.html.
 
 (Note: The border, cellspacing, and cellpadding attributes are used here so you can visually see the table grid without needing to write any CSS.)
 
