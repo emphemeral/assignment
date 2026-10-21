@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 8.1. It provides the HTML structure and CSS styling to build a basic, functional dashboard layout using CSS Grid for both the outer page structure and the inner statistics cards.
 
 1. HTML Structure (index.html)
 HTML
