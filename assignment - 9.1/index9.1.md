@@ -1,6 +1,4 @@
-Here is the complete solution for Assignment 9.1. We will use the Dashboard/Gallery from Week 8, but this time we are completely flipping the approach to Mobile-First.
 
-Instead of building for a large screen and using max-width to strip things away, we will build the stacked mobile view as the default CSS, and use min-width media queries to add the complex grid layout as the screen gets larger.
 
 1. HTML Structure (index.html)
 HTML
