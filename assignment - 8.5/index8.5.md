@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 8.5. For this final mini-project, we are building a Portfolio Dashboard that incorporates an image gallery. This layout uses everything you've learned: grid-template-areas for the macro-layout (the whole page structure) and an auto-responsive repeat(auto-fit, minmax(...)) grid for the micro-layout (the photo gallery).
 
 1. HTML Structure (index.html)
 HTML
