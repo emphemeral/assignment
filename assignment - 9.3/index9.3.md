@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 9.3. This landing page perfectly demonstrates how modern developers build websites: CSS Grid is used for the structural layout of the features section, while Flexbox handles the precise alignment of the navigation bar, the hero section, and the content inside the cards.
 
 1. HTML Structure (index.html)
 HTML
