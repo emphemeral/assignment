@@ -1,4 +1,3 @@
-Here is the complete code for Assignment 7.4. It includes the HTML structure and CSS styling to build a modern landing page with a responsive header, a side-by-side hero section using Flexbox, and a styled footer.
 
 1. HTML Structure (index.html)
 HTML
