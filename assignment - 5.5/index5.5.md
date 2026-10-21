@@ -1,7 +1,4 @@
-Design Choices Explanation
-For this college Coding Club website, I selected a modern tech-inspired palette using midnight blue for structure, vibrant cyan for interactive elements, and an off-white background to reduce eye strain. I utilized system sans-serif fonts to ensure a clean, highly readable typography scale across all devices. CSS variables centralize these design tokens, guaranteeing consistency while making the styles easily reusable and maintainable. Forms and tables are heavily padded with subtle borders to prioritize user accessibility and clear data presentation.
 
-index.html (Home & Schedule)
 HTML
 <!DOCTYPE html>
 <html lang="en">
