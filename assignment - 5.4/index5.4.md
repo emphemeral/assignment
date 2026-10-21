@@ -1,7 +1,4 @@
-Here is the complete code for your assignment, separated into the HTML structure and the CSS design-token stylesheet.
 
-index.html
-This sample webpage implements the variables across headings, cards, and buttons.
 
 HTML
 <!DOCTYPE html>
