@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 8.3. This assignment focuses on grid-template-areas, which is one of the most visual and intuitive ways to construct page layouts in CSS.
 
 1. HTML Structure (index.html)
 HTML
