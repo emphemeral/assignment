@@ -1,4 +1,4 @@
-Here is the complete solution for Assignment 3.5. This project uses two HTML files (index.html and projects.html) connected by a working navigation bar to fulfill all the requirements.
+
 
 File 1: index.html (Home, About, Skills, Links)
 Copy this code and save it as index.html in your project folder.
