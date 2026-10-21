@@ -1,5 +1,3 @@
-The HTML Code
-Copy the code below and save it as job-application.html.
 
 HTML
 <!DOCTYPE html>
