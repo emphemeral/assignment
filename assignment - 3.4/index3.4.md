@@ -1,4 +1,3 @@
-This code acts as the "After" version of your webpage. It replaces a generic div-heavy layout with proper semantic tags, ensuring the page is accessible for screen readers and search engines.
 
 The Semantic HTML Code
 Copy this code and save it as semantic-blog.html.
