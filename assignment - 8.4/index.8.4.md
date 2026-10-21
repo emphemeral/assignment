@@ -1,4 +1,3 @@
-Here is the complete solution for Assignment 8.4. This assignment highlights one of the most powerful combinations in modern web design: using CSS Grid for the macro-layout (the skeleton of the page) and Flexbox for the micro-layout (aligning content inside the individual components).
 
 1. HTML Structure (index.html)
 HTML
