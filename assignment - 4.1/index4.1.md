@@ -1,5 +1,3 @@
-The HTML Code
-Copy the code below and save it as registration.html.
 
 HTML
 <!DOCTYPE html>
